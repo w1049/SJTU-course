@@ -1,0 +1,20 @@
+.
+├── Copy
+│   ├── Copy.c     Source code of Copy
+│   ├── gen.c      File generator
+│   ├── test.c     Test different buffer sizes
+│   ├── plot.py    Plot the test results
+│   └── Makefile
+├── shell
+│   ├── shell.c    Source code of shell
+│   └── Makefile
+├── matrix
+│   ├── single.c   Source code of single-thread multiplication
+│   ├── multi.c    Source code of multi-thread multiplication
+│   ├── test.py    Test different matrix sizes and number of threads
+│   ├── plot.py    Plot the test results
+│   └── Makefile
+├── Makefile
+├── report.pdf     Report of this project
+├── typescript.md  Test guide
+└── Prj1README     This file
